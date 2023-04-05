@@ -80,8 +80,8 @@ In \[2\]:
     #[....] for you to add
 
 ------------------------------------------------------------------------
-
-# Exploratory data analysis
+<details>
+<summary><h1>Exploratory data analysis</h1></summary>
 
 First we load the data. There are four datasets. They correspond to four
 different experiments in two different cell lines, and using two
@@ -1093,6 +1093,7 @@ address the issues discussed in the EDA, but I have also selected the
 focus on the most informative features for the purpose of this analysis.
 However, there are many other methods to reduce dimensionality. Can you
 suggest and discuss other approaches?
+</details>
 
 ------------------------------------------------------------------------
 
