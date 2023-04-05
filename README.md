@@ -190,385 +190,7 @@ Out\[7\]:
 
     ['"output.STAR.1_A10_Hypo_S28_Aligned.sortedByCoord.out.bam"',
      '"output.STAR.1_A11_Hypo_S29_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A12_Hypo_S30_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A1_Norm_S1_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A2_Norm_S2_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A3_Norm_S3_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A4_Norm_S4_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A5_Norm_S5_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A6_Norm_S6_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A7_Hypo_S25_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A8_Hypo_S26_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_A9_Hypo_S27_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B10_Hypo_S76_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B11_Hypo_S77_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B12_Hypo_S78_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B1_Norm_S49_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B2_Norm_S50_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B3_Norm_S51_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B4_Norm_S52_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B5_Norm_S53_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B6_Norm_S54_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B7_Hypo_S73_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B8_Hypo_S74_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_B9_Hypo_S75_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C10_Hypo_S124_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C11_Hypo_S125_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C12_Hypo_S126_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C1_Norm_S97_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C2_Norm_S98_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C3_Norm_S99_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C4_Norm_S100_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C5_Norm_S101_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C6_Norm_S102_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C7_Hypo_S121_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C8_Hypo_S122_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_C9_Hypo_S123_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D10_Hypo_S172_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D11_Hypo_S173_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D12_Hypo_S174_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D1_Norm_S145_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D2_Norm_S146_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D3_Norm_S147_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D4_Norm_S148_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D5_Norm_S149_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D6_Norm_S150_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D7_Hypo_S169_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D8_Hypo_S170_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_D9_Hypo_S171_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E10_Hypo_S220_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E11_Hypo_S221_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E12_Hypo_S222_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E1_Norm_S193_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E2_Norm_S194_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E3_Norm_S195_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E4_Norm_S196_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E5_Norm_S197_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E6_Norm_S198_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E7_Hypo_S217_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E8_Hypo_S218_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_E9_Hypo_S219_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F10_Hypo_S268_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F11_Hypo_S269_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F12_Hypo_S270_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F1_Norm_S241_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F2_Norm_S242_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F3_Norm_S243_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F4_Norm_S244_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F5_Norm_S245_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F6_Norm_S246_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F7_Hypo_S265_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F8_Hypo_S266_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_F9_Hypo_S267_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G10_Hypo_S316_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G11_Hypo_S317_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G12_Hypo_S318_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G1_Norm_S289_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G2_Norm_S290_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G3_Norm_S291_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G4_Norm_S292_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G5_Norm_S293_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G6_Norm_S294_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G7_Hypo_S313_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G8_Hypo_S314_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_G9_Hypo_S315_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H10_Hypo_S364_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H11_Hypo_S365_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H12_Hypo_S366_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H1_Norm_S337_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H2_Norm_S338_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H3_Norm_S339_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H4_Norm_S340_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H5_Norm_S341_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H6_Norm_S342_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H7_Hypo_S361_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H8_Hypo_S362_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.1_H9_Hypo_S363_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A10_Hypo_S34_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A11_Hypo_S35_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A12_Hypo_S36_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A1_Norm_S7_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A2_Norm_S8_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A3_Norm_S9_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A4_Norm_S10_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A5_Norm_S11_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A6_Norm_S12_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A7_Hypo_S31_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A8_Hypo_S32_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_A9_Hypo_S33_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B10_Hypo_S82_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B11_Hypo_S83_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B12_Hypo_S84_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B1_Norm_S55_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B2_Norm_S56_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B3_Norm_S57_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B4_Norm_S58_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B5_Norm_S59_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B6_Norm_S60_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B7_Hypo_S79_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B8_Hypo_S80_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_B9_Hypo_S81_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C10_Hypo_S130_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C11_Hypo_S131_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C12_Hypo_S132_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C1_Norm_S103_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C2_Norm_S104_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C3_Norm_S105_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C4_Norm_S106_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C5_Norm_S107_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C6_Norm_S108_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C7_Hypo_S127_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C8_Hypo_S128_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_C9_Hypo_S129_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D10_Hypo_S178_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D11_Hypo_S179_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D12_Hypo_S180_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D1_Norm_S151_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D2_Norm_S152_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D3_Norm_S153_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D4_Norm_S154_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D5_Norm_S155_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D6_Norm_S156_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D7_Hypo_S175_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D8_Hypo_S176_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_D9_Hypo_S177_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E10_Hypo_S226_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E11_Hypo_S227_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E12_Hypo_S228_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E1_Norm_S199_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E2_Norm_S200_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E3_Norm_S201_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E4_Norm_S202_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E5_Norm_S203_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E6_Norm_S204_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E7_Hypo_S223_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E8_Hypo_S224_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_E9_Hypo_S225_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F10_Hypo_S274_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F11_Hypo_S275_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F12_Hypo_S276_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F1_Norm_S247_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F2_Norm_S248_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F3_Norm_S249_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F4_Norm_S250_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F5_Norm_S251_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F6_Norm_S252_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F7_Hypo_S271_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F8_Hypo_S272_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_F9_Hypo_S273_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G10_Hypo_S322_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G11_Hypo_S323_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G12_Hypo_S324_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G1_Norm_S295_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G2_Norm_S296_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G3_Norm_S297_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G4_Norm_S298_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G5_Norm_S299_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G6_Norm_S300_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G7_Hypo_S319_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G8_Hypo_S320_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_G9_Hypo_S321_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H10_Hypo_S370_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H11_Hypo_S371_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H12_Hypo_S372_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H1_Norm_S343_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H2_Norm_S344_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H3_Norm_S345_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H4_Norm_S346_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H5_Norm_S347_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H6_Norm_S348_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H7_Hypo_S367_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H8_Hypo_S368_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.2_H9_Hypo_S369_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A10_Hypo_S40_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A11_Hypo_S41_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A12_Hypo_S42_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A1_Norm_S13_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A2_Norm_S14_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A3_Norm_S15_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A4_Norm_S16_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A5_Norm_S17_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A6_Norm_S18_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A7_Hypo_S37_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A8_Hypo_S38_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_A9_Hypo_S39_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B10_Hypo_S88_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B11_Hypo_S89_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B12_Hypo_S90_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B1_Norm_S61_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B2_Norm_S62_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B3_Norm_S63_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B4_Norm_S64_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B5_Norm_S65_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B6_Norm_S66_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B7_Hypo_S85_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B8_Hypo_S86_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_B9_Hypo_S87_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C10_Hypo_S136_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C11_Hypo_S137_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C12_Hypo_S138_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C1_Norm_S109_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C2_Norm_S110_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C3_Norm_S111_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C4_Norm_S112_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C5_Norm_S113_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C6_Norm_S114_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C7_Hypo_S133_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C8_Hypo_S134_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_C9_Hypo_S135_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D10_Hypo_S184_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D11_Hypo_S185_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D12_Hypo_S186_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D1_Norm_S157_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D2_Norm_S158_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D3_Norm_S159_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D4_Norm_S160_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D5_Norm_S161_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D6_Norm_S162_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D7_Hypo_S181_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D8_Hypo_S182_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_D9_Hypo_S183_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E10_Hypo_S232_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E11_Hypo_S233_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E12_Hypo_S234_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E1_Norm_S205_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E2_Norm_S206_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E3_Norm_S207_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E4_Norm_S208_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E5_Norm_S209_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E6_Norm_S210_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E7_Hypo_S229_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E8_Hypo_S230_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_E9_Hypo_S231_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F10_Hypo_S280_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F11_Hypo_S281_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F12_Hypo_S282_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F1_Norm_S253_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F2_Norm_S254_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F3_Norm_S255_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F4_Norm_S256_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F5_Norm_S257_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F6_Norm_S258_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F7_Hypo_S277_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F8_Hypo_S278_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_F9_Hypo_S279_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G10_Hypo_S328_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G11_Hypo_S329_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G12_Hypo_S330_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G1_Norm_S301_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G2_Norm_S302_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G3_Norm_S303_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G4_Norm_S304_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G5_Norm_S305_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G6_Norm_S306_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G7_Hypo_S325_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G8_Hypo_S326_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_G9_Hypo_S327_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H10_Hypo_S376_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H12_Hypo_S378_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H13_Hypo_S377_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H1_Norm_S349_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H2_Norm_S350_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H3_Norm_S351_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H4_Norm_S352_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H5_Norm_S353_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H6_Norm_S354_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H7_Hypo_S373_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H8_Hypo_S374_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.3_H9_Hypo_S375_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A10_Hypo_S46_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A11_Hypo_S47_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A12_Hypo_S48_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A1_Norm_S19_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A2_Norm_S20_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A3_Norm_S21_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A4_Norm_S22_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A5_Norm_S23_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A6_Norm_S24_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A7_Hypo_S43_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A8_Hypo_S44_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_A9_Hypo_S45_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B10_Hypo_S94_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B11_Hypo_S95_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B12_Hypo_S96_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B1_Norm_S67_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B2_Norm_S68_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B3_Norm_S69_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B4_Norm_S70_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B5_Norm_S71_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B6_Norm_S72_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B7_Hypo_S91_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B8_Hypo_S92_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_B9_Hypo_S93_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C10_Hypo_S142_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C11_Hypo_S143_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C12_Hypo_S144_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C1_Norm_S115_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C2_Norm_S116_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C3_Norm_S117_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C4_Norm_S118_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C5_Norm_S119_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C6_Norm_S120_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C7_Hypo_S139_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C8_Hypo_S140_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_C9_Hypo_S141_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D10_Hypo_S190_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D11_Hypo_S191_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D12_Hypo_S192_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D1_Norm_S163_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D2_Norm_S164_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D3_Norm_S165_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D4_Norm_S166_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D5_Norm_S167_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D6_Norm_S168_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D7_Hypo_S187_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D8_Hypo_S188_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_D9_Hypo_S189_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E10_Hypo_S238_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E11_Hypo_S239_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E12_Hypo_S240_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E1_Norm_S211_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E2_Norm_S212_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E3_Norm_S213_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E4_Norm_S214_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E5_Norm_S215_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E6_Norm_S216_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E7_Hypo_S235_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E8_Hypo_S236_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_E9_Hypo_S237_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F10_Hypo_S286_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F11_Hypo_S287_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F12_Hypo_S288_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F1_Norm_S259_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F2_Norm_S260_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F3_Norm_S261_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F4_Norm_S262_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F5_Norm_S263_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F6_Norm_S264_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F7_Hypo_S283_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F8_Hypo_S284_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_F9_Hypo_S285_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G10_Hypo_S334_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G11_Hypo_S335_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G12_Hypo_S336_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G1_Norm_S307_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G2_Norm_S308_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G3_Norm_S309_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G4_Norm_S310_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G5_Norm_S311_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G6_Norm_S312_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G7_Hypo_S331_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G8_Hypo_S332_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_G9_Hypo_S333_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H10_Hypo_S382_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H14_Hypo_S383_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H1_Norm_S355_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H2_Norm_S356_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H3_Norm_S357_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H4_Norm_S358_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H5_Norm_S359_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H6_Norm_S360_Aligned.sortedByCoord.out.bam"',
-     '"output.STAR.4_H7_Hypo_S379_Aligned.sortedByCoord.out.bam"',
+     ...
      '"output.STAR.4_H8_Hypo_S380_Aligned.sortedByCoord.out.bam"',
      '"output.STAR.4_H9_Hypo_S381_Aligned.sortedByCoord.out.bam"']
 
@@ -625,13 +247,7 @@ Out\[11\]:
 
     "output.STAR.1_A10_Hypo_S28_Aligned.sortedByCoord.out.bam"    int64
     "output.STAR.1_A11_Hypo_S29_Aligned.sortedByCoord.out.bam"    int64
-    "output.STAR.1_A12_Hypo_S30_Aligned.sortedByCoord.out.bam"    int64
-    "output.STAR.1_A1_Norm_S1_Aligned.sortedByCoord.out.bam"      int64
-    "output.STAR.1_A2_Norm_S2_Aligned.sortedByCoord.out.bam"      int64
                                                                   ...  
-    "output.STAR.4_H5_Norm_S359_Aligned.sortedByCoord.out.bam"    int64
-    "output.STAR.4_H6_Norm_S360_Aligned.sortedByCoord.out.bam"    int64
-    "output.STAR.4_H7_Hypo_S379_Aligned.sortedByCoord.out.bam"    int64
     "output.STAR.4_H8_Hypo_S380_Aligned.sortedByCoord.out.bam"    int64
     "output.STAR.4_H9_Hypo_S381_Aligned.sortedByCoord.out.bam"    int64
     Length: 383, dtype: object
@@ -683,13 +299,7 @@ In \[13\]:
 
     "output.STAR.1_A10_Hypo_S28_Aligned.sortedByCoord.out.bam"    0
     "output.STAR.1_A11_Hypo_S29_Aligned.sortedByCoord.out.bam"    0
-    "output.STAR.1_A12_Hypo_S30_Aligned.sortedByCoord.out.bam"    0
-    "output.STAR.1_A1_Norm_S1_Aligned.sortedByCoord.out.bam"      0
-    "output.STAR.1_A2_Norm_S2_Aligned.sortedByCoord.out.bam"      0
-                                                                 ..
-    "output.STAR.4_H5_Norm_S359_Aligned.sortedByCoord.out.bam"    0
-    "output.STAR.4_H6_Norm_S360_Aligned.sortedByCoord.out.bam"    0
-    "output.STAR.4_H7_Hypo_S379_Aligned.sortedByCoord.out.bam"    0
+                                                                 ...
     "output.STAR.4_H8_Hypo_S380_Aligned.sortedByCoord.out.bam"    0
     "output.STAR.4_H9_Hypo_S381_Aligned.sortedByCoord.out.bam"    0
     Length: 383, dtype: int64
@@ -792,104 +402,7 @@ In \[20\]:
 Out\[20\]:
 
     [None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
+     ...
      None]
 
 ![](attachment:vertopal_af7e9407fea3417e85ecb8a8be849c8f/421d8007f5abde8184d491be589fa25e6fba85b0.png)
@@ -909,13 +422,7 @@ In \[21\]:
 
     "output.STAR.1_A10_Hypo_S28_Aligned.sortedByCoord.out.bam"    17.0
     "output.STAR.1_A11_Hypo_S29_Aligned.sortedByCoord.out.bam"     0.0
-    "output.STAR.1_A12_Hypo_S30_Aligned.sortedByCoord.out.bam"     5.0
-    "output.STAR.1_A1_Norm_S1_Aligned.sortedByCoord.out.bam"       0.0
-    "output.STAR.1_A2_Norm_S2_Aligned.sortedByCoord.out.bam"       7.0
                                                                   ... 
-    "output.STAR.4_H5_Norm_S359_Aligned.sortedByCoord.out.bam"     9.0
-    "output.STAR.4_H6_Norm_S360_Aligned.sortedByCoord.out.bam"    27.0
-    "output.STAR.4_H7_Hypo_S379_Aligned.sortedByCoord.out.bam"    30.0
     "output.STAR.4_H8_Hypo_S380_Aligned.sortedByCoord.out.bam"    38.0
     "output.STAR.4_H9_Hypo_S381_Aligned.sortedByCoord.out.bam"    33.0
     Length: 383, dtype: float64
@@ -966,104 +473,7 @@ In \[24\]:
 Out\[24\]:
 
     [None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
+     ...
      None]
 
 ![](attachment:vertopal_af7e9407fea3417e85ecb8a8be849c8f/421d8007f5abde8184d491be589fa25e6fba85b0.png)
@@ -1208,104 +618,7 @@ In \[32\]:
 Out\[32\]:
 
     [None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
-     None,
+     ...
      None]
 
 ![](attachment:vertopal_af7e9407fea3417e85ecb8a8be849c8f/af0e57c5e2b4ef5b7c6a63868838c5d1b2461807.png)
@@ -1404,1219 +717,151 @@ In \[39\]:
     number of duplicate rows:  (56, 383)
     number of duplicate rows:                     "output.STAR.1_A10_Hypo_S28_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
-    "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    "IL12RB2"                                                        0.0   
+    ...         
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.1_A11_Hypo_S29_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.1_A12_Hypo_S30_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                  0.000000            
     "IL12RB2"                                                   0.000000            
-    "S1PR1"                                                     0.000000            
-    "CD84"                                                      0.000000            
-    "GNLY"                                                      0.000000            
-    "FAR2P3"                                                    0.000000            
-    "KLF2P3"                                                    0.000000            
-    "PABPC1P2"                                                  0.000000            
-    "UGT1A8"                                                    5.857981            
-    "UGT1A9"                                                    5.857981            
-    "SLC22A14"                                                  0.000000            
-    "COQ10BP2"                                                  0.000000            
-    "PANDAR"                                                    0.000000            
-    "LAP3P2"                                                    0.000000            
-    "RPL22P16"                                                  0.000000            
-    "GALNT17"                                                   0.000000            
-    "PON1"                                                      0.000000            
-    "HTR5A"                                                     0.000000            
-    "SNORA36A"                                                  0.000000            
-    "MIR664B"                                                   0.000000            
-    "CSMD1"                                                     0.000000            
-    "KCNS2"                                                     0.000000            
-    "MIR548AA1"                                                 0.000000            
-    "MIR548D1"                                                  0.000000            
-    "MTCO2P11"                                                  0.000000            
-    "CLCN3P1"                                                   0.000000            
-    "SUGT1P4-STRA6LP"                                           0.000000            
-    "STRA6LP"                                                   0.000000            
-    "MUC6"                                                      0.000000            
-    "VSTM4"                                                     0.000000            
-    "LINC00856"                                                 0.000000            
-    "LINC00595"                                                 0.000000            
-    "CACYBPP1"                                                  0.000000            
-    "LINC00477"                                                 0.000000            
-    "KNOP1P1"                                                   0.000000            
-    "WDR95P"                                                    0.000000            
-    "MIR20A"                                                    0.000000            
-    "MIR19B1"                                                   0.000000            
-    "RPL21P5"                                                   0.000000            
-    "RNU6-539P"                                                 0.000000            
-    "SNRPN"                                                     0.000000            
-    "SNURF"                                                     0.000000            
-    "RBFOX1"                                                    0.000000            
-    "LINC02183"                                                 0.000000            
-    "MT1M"                                                      0.000000            
-    "ASPA"                                                      0.000000            
-    "BCL6B"                                                     0.000000            
-    "CCL3L3"                                                    0.000000            
-    "CCL3L1"                                                    0.000000            
-    "OTOP3"                                                     0.000000            
-    "RNA5SP450"                                                 0.000000            
-    "PSG1"                                                      0.000000            
-    "MIR3190"                                                   0.000000            
-    "MIR3191"                                                   0.000000            
+    ...
     "SEZ6L"                                                     0.000000            
     "ADAMTS5"                                                   0.000000            
 
                        "output.STAR.1_A1_Norm_S1_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0          
     "IL12RB2"                                                        0.0          
-    "S1PR1"                                                          0.0          
-    "CD84"                                                           0.0          
-    "GNLY"                                                           0.0          
-    "FAR2P3"                                                         0.0          
-    "KLF2P3"                                                         0.0          
-    "PABPC1P2"                                                       0.0          
-    "UGT1A8"                                                         0.0          
-    "UGT1A9"                                                         0.0          
-    "SLC22A14"                                                       0.0          
-    "COQ10BP2"                                                       0.0          
-    "PANDAR"                                                         0.0          
-    "LAP3P2"                                                         0.0          
-    "RPL22P16"                                                       0.0          
-    "GALNT17"                                                        0.0          
-    "PON1"                                                           0.0          
-    "HTR5A"                                                          0.0          
-    "SNORA36A"                                                       0.0          
-    "MIR664B"                                                        0.0          
-    "CSMD1"                                                          0.0          
-    "KCNS2"                                                          0.0          
-    "MIR548AA1"                                                      0.0          
-    "MIR548D1"                                                       0.0          
-    "MTCO2P11"                                                       0.0          
-    "CLCN3P1"                                                        0.0          
-    "SUGT1P4-STRA6LP"                                                0.0          
-    "STRA6LP"                                                        0.0          
-    "MUC6"                                                           0.0          
-    "VSTM4"                                                          0.0          
-    "LINC00856"                                                      0.0          
-    "LINC00595"                                                      0.0          
-    "CACYBPP1"                                                       0.0          
-    "LINC00477"                                                      0.0          
-    "KNOP1P1"                                                        0.0          
-    "WDR95P"                                                         0.0          
-    "MIR20A"                                                         0.0          
-    "MIR19B1"                                                        0.0          
-    "RPL21P5"                                                        0.0          
-    "RNU6-539P"                                                      0.0          
-    "SNRPN"                                                          0.0          
-    "SNURF"                                                          0.0          
-    "RBFOX1"                                                         0.0          
-    "LINC02183"                                                      0.0          
-    "MT1M"                                                           0.0          
-    "ASPA"                                                           0.0          
-    "BCL6B"                                                          0.0          
-    "CCL3L3"                                                         0.0          
-    "CCL3L1"                                                         0.0          
-    "OTOP3"                                                          0.0          
-    "RNA5SP450"                                                      0.0          
-    "PSG1"                                                           0.0          
-    "MIR3190"                                                        0.0          
-    "MIR3191"                                                        0.0          
+    ...
     "SEZ6L"                                                          0.0          
     "ADAMTS5"                                                        0.0          
 
                        "output.STAR.1_A2_Norm_S2_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0          
     "IL12RB2"                                                        0.0          
-    "S1PR1"                                                          0.0          
-    "CD84"                                                           0.0          
-    "GNLY"                                                           0.0          
-    "FAR2P3"                                                         0.0          
-    "KLF2P3"                                                         0.0          
-    "PABPC1P2"                                                       0.0          
-    "UGT1A8"                                                         0.0          
-    "UGT1A9"                                                         0.0          
-    "SLC22A14"                                                       0.0          
-    "COQ10BP2"                                                       0.0          
-    "PANDAR"                                                         0.0          
-    "LAP3P2"                                                         0.0          
-    "RPL22P16"                                                       0.0          
-    "GALNT17"                                                        0.0          
-    "PON1"                                                           0.0          
-    "HTR5A"                                                          0.0          
-    "SNORA36A"                                                       0.0          
-    "MIR664B"                                                        0.0          
-    "CSMD1"                                                          0.0          
-    "KCNS2"                                                          0.0          
-    "MIR548AA1"                                                      0.0          
-    "MIR548D1"                                                       0.0          
-    "MTCO2P11"                                                       0.0          
-    "CLCN3P1"                                                        0.0          
-    "SUGT1P4-STRA6LP"                                                0.0          
-    "STRA6LP"                                                        0.0          
-    "MUC6"                                                           0.0          
-    "VSTM4"                                                          0.0          
-    "LINC00856"                                                      0.0          
-    "LINC00595"                                                      0.0          
-    "CACYBPP1"                                                       0.0          
-    "LINC00477"                                                      0.0          
-    "KNOP1P1"                                                        0.0          
-    "WDR95P"                                                         0.0          
-    "MIR20A"                                                         0.0          
-    "MIR19B1"                                                        0.0          
-    "RPL21P5"                                                        0.0          
-    "RNU6-539P"                                                      0.0          
-    "SNRPN"                                                          0.0          
-    "SNURF"                                                          0.0          
-    "RBFOX1"                                                         0.0          
-    "LINC02183"                                                      0.0          
-    "MT1M"                                                           0.0          
-    "ASPA"                                                           0.0          
-    "BCL6B"                                                          0.0          
-    "CCL3L3"                                                         0.0          
-    "CCL3L1"                                                         0.0          
-    "OTOP3"                                                          0.0          
-    "RNA5SP450"                                                      0.0          
-    "PSG1"                                                           0.0          
-    "MIR3190"                                                        0.0          
-    "MIR3191"                                                        0.0          
+    ...
     "SEZ6L"                                                          0.0          
     "ADAMTS5"                                                        0.0          
 
                        "output.STAR.1_A3_Norm_S3_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0          
     "IL12RB2"                                                        0.0          
-    "S1PR1"                                                          0.0          
-    "CD84"                                                           0.0          
-    "GNLY"                                                           0.0          
-    "FAR2P3"                                                         0.0          
-    "KLF2P3"                                                         0.0          
-    "PABPC1P2"                                                       0.0          
-    "UGT1A8"                                                         0.0          
-    "UGT1A9"                                                         0.0          
-    "SLC22A14"                                                       0.0          
-    "COQ10BP2"                                                       0.0          
-    "PANDAR"                                                         1.0          
-    "LAP3P2"                                                         1.0          
-    "RPL22P16"                                                       0.0          
-    "GALNT17"                                                        0.0          
-    "PON1"                                                           0.0          
-    "HTR5A"                                                          0.0          
-    "SNORA36A"                                                       0.0          
-    "MIR664B"                                                        0.0          
-    "CSMD1"                                                          0.0          
-    "KCNS2"                                                          0.0          
-    "MIR548AA1"                                                      0.0          
-    "MIR548D1"                                                       0.0          
-    "MTCO2P11"                                                       0.0          
-    "CLCN3P1"                                                        0.0          
-    "SUGT1P4-STRA6LP"                                                0.0          
-    "STRA6LP"                                                        0.0          
-    "MUC6"                                                           0.0          
-    "VSTM4"                                                          0.0          
-    "LINC00856"                                                      0.0          
-    "LINC00595"                                                      0.0          
-    "CACYBPP1"                                                       0.0          
-    "LINC00477"                                                      0.0          
-    "KNOP1P1"                                                        0.0          
-    "WDR95P"                                                         0.0          
-    "MIR20A"                                                         0.0          
-    "MIR19B1"                                                        0.0          
-    "RPL21P5"                                                        0.0          
-    "RNU6-539P"                                                      0.0          
-    "SNRPN"                                                          0.0          
-    "SNURF"                                                          0.0          
-    "RBFOX1"                                                         0.0          
-    "LINC02183"                                                      0.0          
-    "MT1M"                                                           0.0          
-    "ASPA"                                                           0.0          
-    "BCL6B"                                                          0.0          
-    "CCL3L3"                                                         0.0          
-    "CCL3L1"                                                         0.0          
-    "OTOP3"                                                          0.0          
-    "RNA5SP450"                                                      0.0          
-    "PSG1"                                                           0.0          
-    "MIR3190"                                                        0.0          
-    "MIR3191"                                                        0.0          
+    ...
     "SEZ6L"                                                          0.0          
     "ADAMTS5"                                                        0.0          
 
                        "output.STAR.1_A4_Norm_S4_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                  0.000000          
     "IL12RB2"                                                   0.000000          
-    "S1PR1"                                                     0.000000          
-    "CD84"                                                      0.000000          
-    "GNLY"                                                      0.000000          
-    "FAR2P3"                                                    0.000000          
-    "KLF2P3"                                                    0.000000          
-    "PABPC1P2"                                                  0.000000          
-    "UGT1A8"                                                    0.000000          
-    "UGT1A9"                                                    0.000000          
-    "SLC22A14"                                                  0.000000          
-    "COQ10BP2"                                                  0.000000          
-    "PANDAR"                                                    0.000000          
-    "LAP3P2"                                                    0.000000          
-    "RPL22P16"                                                  0.000000          
-    "GALNT17"                                                   0.000000          
-    "PON1"                                                      0.000000          
-    "HTR5A"                                                     0.000000          
-    "SNORA36A"                                                  0.000000          
-    "MIR664B"                                                   0.000000          
-    "CSMD1"                                                     0.000000          
-    "KCNS2"                                                     0.000000          
-    "MIR548AA1"                                                 0.000000          
-    "MIR548D1"                                                  0.000000          
-    "MTCO2P11"                                                  0.000000          
-    "CLCN3P1"                                                   0.000000          
-    "SUGT1P4-STRA6LP"                                           1.584963          
-    "STRA6LP"                                                   1.584963          
-    "MUC6"                                                      0.000000          
-    "VSTM4"                                                     0.000000          
-    "LINC00856"                                                 0.000000          
-    "LINC00595"                                                 0.000000          
-    "CACYBPP1"                                                  0.000000          
-    "LINC00477"                                                 0.000000          
-    "KNOP1P1"                                                   0.000000          
-    "WDR95P"                                                    0.000000          
-    "MIR20A"                                                    0.000000          
-    "MIR19B1"                                                   0.000000          
-    "RPL21P5"                                                   0.000000          
-    "RNU6-539P"                                                 0.000000          
-    "SNRPN"                                                     0.000000          
-    "SNURF"                                                     0.000000          
-    "RBFOX1"                                                    0.000000          
-    "LINC02183"                                                 0.000000          
-    "MT1M"                                                      0.000000          
-    "ASPA"                                                      0.000000          
-    "BCL6B"                                                     0.000000          
-    "CCL3L3"                                                    0.000000          
-    "CCL3L1"                                                    0.000000          
-    "OTOP3"                                                     0.000000          
-    "RNA5SP450"                                                 0.000000          
-    "PSG1"                                                      0.000000          
-    "MIR3190"                                                   0.000000          
-    "MIR3191"                                                   0.000000          
+    ...
     "SEZ6L"                                                     0.000000          
     "ADAMTS5"                                                   0.000000          
 
                        "output.STAR.1_A5_Norm_S5_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0          
     "IL12RB2"                                                        0.0          
-    "S1PR1"                                                          0.0          
-    "CD84"                                                           0.0          
-    "GNLY"                                                           0.0          
-    "FAR2P3"                                                         0.0          
-    "KLF2P3"                                                         0.0          
-    "PABPC1P2"                                                       0.0          
-    "UGT1A8"                                                         0.0          
-    "UGT1A9"                                                         0.0          
-    "SLC22A14"                                                       0.0          
-    "COQ10BP2"                                                       0.0          
-    "PANDAR"                                                         0.0          
-    "LAP3P2"                                                         0.0          
-    "RPL22P16"                                                       0.0          
-    "GALNT17"                                                        0.0          
-    "PON1"                                                           0.0          
-    "HTR5A"                                                          0.0          
-    "SNORA36A"                                                       0.0          
-    "MIR664B"                                                        0.0          
-    "CSMD1"                                                          0.0          
-    "KCNS2"                                                          0.0          
-    "MIR548AA1"                                                      0.0          
-    "MIR548D1"                                                       0.0          
-    "MTCO2P11"                                                       0.0          
-    "CLCN3P1"                                                        0.0          
-    "SUGT1P4-STRA6LP"                                                0.0          
-    "STRA6LP"                                                        0.0          
-    "MUC6"                                                           0.0          
-    "VSTM4"                                                          0.0          
-    "LINC00856"                                                      0.0          
-    "LINC00595"                                                      0.0          
-    "CACYBPP1"                                                       0.0          
-    "LINC00477"                                                      0.0          
-    "KNOP1P1"                                                        0.0          
-    "WDR95P"                                                         0.0          
-    "MIR20A"                                                         0.0          
-    "MIR19B1"                                                        0.0          
-    "RPL21P5"                                                        0.0          
-    "RNU6-539P"                                                      0.0          
-    "SNRPN"                                                          0.0          
-    "SNURF"                                                          0.0          
-    "RBFOX1"                                                         0.0          
-    "LINC02183"                                                      0.0          
-    "MT1M"                                                           0.0          
-    "ASPA"                                                           0.0          
-    "BCL6B"                                                          0.0          
-    "CCL3L3"                                                         0.0          
-    "CCL3L1"                                                         0.0          
-    "OTOP3"                                                          0.0          
-    "RNA5SP450"                                                      0.0          
-    "PSG1"                                                           0.0          
-    "MIR3190"                                                        0.0          
-    "MIR3191"                                                        0.0          
+    ...
     "SEZ6L"                                                          0.0          
     "ADAMTS5"                                                        0.0          
 
                        "output.STAR.1_A6_Norm_S6_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0          
     "IL12RB2"                                                        0.0          
-    "S1PR1"                                                          0.0          
-    "CD84"                                                           0.0          
-    "GNLY"                                                           0.0          
-    "FAR2P3"                                                         0.0          
-    "KLF2P3"                                                         0.0          
-    "PABPC1P2"                                                       0.0          
-    "UGT1A8"                                                         0.0          
-    "UGT1A9"                                                         0.0          
-    "SLC22A14"                                                       0.0          
-    "COQ10BP2"                                                       0.0          
-    "PANDAR"                                                         0.0          
-    "LAP3P2"                                                         0.0          
-    "RPL22P16"                                                       0.0          
-    "GALNT17"                                                        0.0          
-    "PON1"                                                           0.0          
-    "HTR5A"                                                          0.0          
-    "SNORA36A"                                                       0.0          
-    "MIR664B"                                                        0.0          
-    "CSMD1"                                                          0.0          
-    "KCNS2"                                                          0.0          
-    "MIR548AA1"                                                      0.0          
-    "MIR548D1"                                                       0.0          
-    "MTCO2P11"                                                       0.0          
-    "CLCN3P1"                                                        0.0          
-    "SUGT1P4-STRA6LP"                                                0.0          
-    "STRA6LP"                                                        0.0          
-    "MUC6"                                                           0.0          
-    "VSTM4"                                                          0.0          
-    "LINC00856"                                                      0.0          
-    "LINC00595"                                                      0.0          
-    "CACYBPP1"                                                       0.0          
-    "LINC00477"                                                      0.0          
-    "KNOP1P1"                                                        0.0          
-    "WDR95P"                                                         0.0          
-    "MIR20A"                                                         0.0          
-    "MIR19B1"                                                        0.0          
-    "RPL21P5"                                                        0.0          
-    "RNU6-539P"                                                      0.0          
-    "SNRPN"                                                          0.0          
-    "SNURF"                                                          0.0          
-    "RBFOX1"                                                         0.0          
-    "LINC02183"                                                      0.0          
-    "MT1M"                                                           0.0          
-    "ASPA"                                                           0.0          
-    "BCL6B"                                                          0.0          
-    "CCL3L3"                                                         0.0          
-    "CCL3L1"                                                         0.0          
-    "OTOP3"                                                          0.0          
-    "RNA5SP450"                                                      0.0          
-    "PSG1"                                                           0.0          
-    "MIR3190"                                                        0.0          
-    "MIR3191"                                                        0.0          
+    ...
     "SEZ6L"                                                          0.0          
     "ADAMTS5"                                                        0.0          
 
                        "output.STAR.1_A7_Hypo_S25_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0           
     "IL12RB2"                                                        0.0           
-    "S1PR1"                                                          0.0           
-    "CD84"                                                           0.0           
-    "GNLY"                                                           0.0           
-    "FAR2P3"                                                         0.0           
-    "KLF2P3"                                                         0.0           
-    "PABPC1P2"                                                       0.0           
-    "UGT1A8"                                                         0.0           
-    "UGT1A9"                                                         0.0           
-    "SLC22A14"                                                       0.0           
-    "COQ10BP2"                                                       0.0           
-    "PANDAR"                                                         0.0           
-    "LAP3P2"                                                         0.0           
-    "RPL22P16"                                                       0.0           
-    "GALNT17"                                                        0.0           
-    "PON1"                                                           0.0           
-    "HTR5A"                                                          0.0           
-    "SNORA36A"                                                       0.0           
-    "MIR664B"                                                        0.0           
-    "CSMD1"                                                          0.0           
-    "KCNS2"                                                          0.0           
-    "MIR548AA1"                                                      0.0           
-    "MIR548D1"                                                       0.0           
-    "MTCO2P11"                                                       0.0           
-    "CLCN3P1"                                                        0.0           
-    "SUGT1P4-STRA6LP"                                                0.0           
-    "STRA6LP"                                                        0.0           
-    "MUC6"                                                           0.0           
-    "VSTM4"                                                          0.0           
-    "LINC00856"                                                      0.0           
-    "LINC00595"                                                      0.0           
-    "CACYBPP1"                                                       0.0           
-    "LINC00477"                                                      0.0           
-    "KNOP1P1"                                                        0.0           
-    "WDR95P"                                                         0.0           
-    "MIR20A"                                                         0.0           
-    "MIR19B1"                                                        0.0           
-    "RPL21P5"                                                        0.0           
-    "RNU6-539P"                                                      0.0           
-    "SNRPN"                                                          0.0           
-    "SNURF"                                                          0.0           
-    "RBFOX1"                                                         0.0           
-    "LINC02183"                                                      0.0           
-    "MT1M"                                                           0.0           
-    "ASPA"                                                           0.0           
-    "BCL6B"                                                          0.0           
-    "CCL3L3"                                                         0.0           
-    "CCL3L1"                                                         0.0           
-    "OTOP3"                                                          0.0           
-    "RNA5SP450"                                                      0.0           
-    "PSG1"                                                           0.0           
-    "MIR3190"                                                        0.0           
-    "MIR3191"                                                        0.0           
+    ...
     "SEZ6L"                                                          0.0           
     "ADAMTS5"                                                        0.0           
 
                        ...  \
     "SHISAL2A"         ...   
     "IL12RB2"          ...   
-    "S1PR1"            ...   
-    "CD84"             ...   
-    "GNLY"             ...   
-    "FAR2P3"           ...   
-    "KLF2P3"           ...   
-    "PABPC1P2"         ...   
-    "UGT1A8"           ...   
-    "UGT1A9"           ...   
-    "SLC22A14"         ...   
-    "COQ10BP2"         ...   
-    "PANDAR"           ...   
-    "LAP3P2"           ...   
-    "RPL22P16"         ...   
-    "GALNT17"          ...   
-    "PON1"             ...   
-    "HTR5A"            ...   
-    "SNORA36A"         ...   
-    "MIR664B"          ...   
-    "CSMD1"            ...   
-    "KCNS2"            ...   
-    "MIR548AA1"        ...   
-    "MIR548D1"         ...   
-    "MTCO2P11"         ...   
-    "CLCN3P1"          ...   
-    "SUGT1P4-STRA6LP"  ...   
-    "STRA6LP"          ...   
-    "MUC6"             ...   
-    "VSTM4"            ...   
-    "LINC00856"        ...   
-    "LINC00595"        ...   
-    "CACYBPP1"         ...   
-    "LINC00477"        ...   
-    "KNOP1P1"          ...   
-    "WDR95P"           ...   
-    "MIR20A"           ...   
-    "MIR19B1"          ...   
-    "RPL21P5"          ...   
-    "RNU6-539P"        ...   
-    "SNRPN"            ...   
-    "SNURF"            ...   
-    "RBFOX1"           ...   
-    "LINC02183"        ...   
-    "MT1M"             ...   
-    "ASPA"             ...   
-    "BCL6B"            ...   
-    "CCL3L3"           ...   
-    "CCL3L1"           ...   
-    "OTOP3"            ...   
-    "RNA5SP450"        ...   
-    "PSG1"             ...   
-    "MIR3190"          ...   
-    "MIR3191"          ...   
+    ...
     "SEZ6L"            ...   
     "ADAMTS5"          ...   
 
                        "output.STAR.4_H14_Hypo_S383_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0             
     "IL12RB2"                                                        0.0             
-    "S1PR1"                                                          0.0             
-    "CD84"                                                           0.0             
-    "GNLY"                                                           0.0             
-    "FAR2P3"                                                         0.0             
-    "KLF2P3"                                                         0.0             
-    "PABPC1P2"                                                       0.0             
-    "UGT1A8"                                                         0.0             
-    "UGT1A9"                                                         0.0             
-    "SLC22A14"                                                       0.0             
-    "COQ10BP2"                                                       0.0             
-    "PANDAR"                                                         0.0             
-    "LAP3P2"                                                         0.0             
-    "RPL22P16"                                                       0.0             
-    "GALNT17"                                                        0.0             
-    "PON1"                                                           0.0             
-    "HTR5A"                                                          0.0             
-    "SNORA36A"                                                       0.0             
-    "MIR664B"                                                        0.0             
-    "CSMD1"                                                          0.0             
-    "KCNS2"                                                          0.0             
-    "MIR548AA1"                                                      0.0             
-    "MIR548D1"                                                       0.0             
-    "MTCO2P11"                                                       0.0             
-    "CLCN3P1"                                                        0.0             
-    "SUGT1P4-STRA6LP"                                                0.0             
-    "STRA6LP"                                                        0.0             
-    "MUC6"                                                           0.0             
-    "VSTM4"                                                          0.0             
-    "LINC00856"                                                      0.0             
-    "LINC00595"                                                      0.0             
-    "CACYBPP1"                                                       0.0             
-    "LINC00477"                                                      0.0             
-    "KNOP1P1"                                                        0.0             
-    "WDR95P"                                                         0.0             
-    "MIR20A"                                                         0.0             
-    "MIR19B1"                                                        0.0             
-    "RPL21P5"                                                        0.0             
-    "RNU6-539P"                                                      0.0             
-    "SNRPN"                                                          0.0             
-    "SNURF"                                                          0.0             
-    "RBFOX1"                                                         0.0             
-    "LINC02183"                                                      0.0             
-    "MT1M"                                                           0.0             
-    "ASPA"                                                           0.0             
-    "BCL6B"                                                          0.0             
-    "CCL3L3"                                                         0.0             
-    "CCL3L1"                                                         0.0             
-    "OTOP3"                                                          0.0             
-    "RNA5SP450"                                                      0.0             
-    "PSG1"                                                           0.0             
-    "MIR3190"                                                        0.0             
-    "MIR3191"                                                        0.0             
+    ...
     "SEZ6L"                                                          0.0             
     "ADAMTS5"                                                        0.0             
 
                        "output.STAR.4_H1_Norm_S355_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H2_Norm_S356_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         1.0            
-    "LAP3P2"                                                         1.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H3_Norm_S357_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                  0.000000            
     "IL12RB2"                                                   0.000000            
-    "S1PR1"                                                     0.000000            
-    "CD84"                                                      0.000000            
-    "GNLY"                                                      0.000000            
-    "FAR2P3"                                                    0.000000            
-    "KLF2P3"                                                    0.000000            
-    "PABPC1P2"                                                  0.000000            
-    "UGT1A8"                                                    2.584963            
-    "UGT1A9"                                                    2.584963            
-    "SLC22A14"                                                  0.000000            
-    "COQ10BP2"                                                  0.000000            
-    "PANDAR"                                                    0.000000            
-    "LAP3P2"                                                    0.000000            
-    "RPL22P16"                                                  0.000000            
-    "GALNT17"                                                   0.000000            
-    "PON1"                                                      0.000000            
-    "HTR5A"                                                     0.000000            
-    "SNORA36A"                                                  0.000000            
-    "MIR664B"                                                   0.000000            
-    "CSMD1"                                                     0.000000            
-    "KCNS2"                                                     0.000000            
-    "MIR548AA1"                                                 0.000000            
-    "MIR548D1"                                                  0.000000            
-    "MTCO2P11"                                                  0.000000            
-    "CLCN3P1"                                                   0.000000            
+    ...
     "SUGT1P4-STRA6LP"                                           4.321928            
     "STRA6LP"                                                   4.321928            
-    "MUC6"                                                      0.000000            
-    "VSTM4"                                                     0.000000            
-    "LINC00856"                                                 0.000000            
-    "LINC00595"                                                 0.000000            
-    "CACYBPP1"                                                  0.000000            
-    "LINC00477"                                                 0.000000            
-    "KNOP1P1"                                                   0.000000            
-    "WDR95P"                                                    0.000000            
-    "MIR20A"                                                    0.000000            
-    "MIR19B1"                                                   0.000000            
-    "RPL21P5"                                                   0.000000            
-    "RNU6-539P"                                                 0.000000            
-    "SNRPN"                                                     0.000000            
-    "SNURF"                                                     0.000000            
-    "RBFOX1"                                                    0.000000            
-    "LINC02183"                                                 0.000000            
-    "MT1M"                                                      0.000000            
-    "ASPA"                                                      0.000000            
-    "BCL6B"                                                     0.000000            
-    "CCL3L3"                                                    0.000000            
-    "CCL3L1"                                                    0.000000            
-    "OTOP3"                                                     0.000000            
-    "RNA5SP450"                                                 0.000000            
-    "PSG1"                                                      0.000000            
-    "MIR3190"                                                   0.000000            
-    "MIR3191"                                                   0.000000            
+    ...
     "SEZ6L"                                                     0.000000            
     "ADAMTS5"                                                   0.000000            
 
                        "output.STAR.4_H4_Norm_S358_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H5_Norm_S359_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           1.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          1.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      1.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          1.0            
-    "CCL3L3"                                                         2.0            
-    "CCL3L1"                                                         2.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        1.0            
 
                        "output.STAR.4_H6_Norm_S360_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         1.0            
-    "LAP3P2"                                                         1.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H7_Hypo_S379_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         0.0            
-    "LAP3P2"                                                         0.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      3.0            
-    "LINC00595"                                                      3.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H8_Hypo_S380_Aligned.sortedByCoord.out.bam"  \
     "SHISAL2A"                                                       0.0            
     "IL12RB2"                                                        0.0            
-    "S1PR1"                                                          0.0            
-    "CD84"                                                           0.0            
-    "GNLY"                                                           0.0            
-    "FAR2P3"                                                         0.0            
-    "KLF2P3"                                                         0.0            
-    "PABPC1P2"                                                       0.0            
-    "UGT1A8"                                                         0.0            
-    "UGT1A9"                                                         0.0            
-    "SLC22A14"                                                       0.0            
-    "COQ10BP2"                                                       0.0            
-    "PANDAR"                                                         1.0            
-    "LAP3P2"                                                         1.0            
-    "RPL22P16"                                                       0.0            
-    "GALNT17"                                                        0.0            
-    "PON1"                                                           0.0            
-    "HTR5A"                                                          0.0            
-    "SNORA36A"                                                       0.0            
-    "MIR664B"                                                        0.0            
-    "CSMD1"                                                          0.0            
-    "KCNS2"                                                          0.0            
-    "MIR548AA1"                                                      0.0            
-    "MIR548D1"                                                       0.0            
-    "MTCO2P11"                                                       0.0            
-    "CLCN3P1"                                                        0.0            
-    "SUGT1P4-STRA6LP"                                                0.0            
-    "STRA6LP"                                                        0.0            
-    "MUC6"                                                           0.0            
-    "VSTM4"                                                          0.0            
-    "LINC00856"                                                      0.0            
-    "LINC00595"                                                      0.0            
-    "CACYBPP1"                                                       0.0            
-    "LINC00477"                                                      0.0            
-    "KNOP1P1"                                                        0.0            
-    "WDR95P"                                                         0.0            
-    "MIR20A"                                                         0.0            
-    "MIR19B1"                                                        0.0            
-    "RPL21P5"                                                        0.0            
-    "RNU6-539P"                                                      0.0            
-    "SNRPN"                                                          0.0            
-    "SNURF"                                                          0.0            
-    "RBFOX1"                                                         0.0            
-    "LINC02183"                                                      0.0            
-    "MT1M"                                                           0.0            
-    "ASPA"                                                           0.0            
-    "BCL6B"                                                          0.0            
-    "CCL3L3"                                                         0.0            
-    "CCL3L1"                                                         0.0            
-    "OTOP3"                                                          0.0            
-    "RNA5SP450"                                                      0.0            
-    "PSG1"                                                           0.0            
-    "MIR3190"                                                        0.0            
-    "MIR3191"                                                        0.0            
+    ...
     "SEZ6L"                                                          0.0            
     "ADAMTS5"                                                        0.0            
 
                        "output.STAR.4_H9_Hypo_S381_Aligned.sortedByCoord.out.bam"  
     "SHISAL2A"                                                       0.0           
     "IL12RB2"                                                        0.0           
-    "S1PR1"                                                          0.0           
-    "CD84"                                                           0.0           
-    "GNLY"                                                           0.0           
-    "FAR2P3"                                                         0.0           
-    "KLF2P3"                                                         0.0           
-    "PABPC1P2"                                                       0.0           
-    "UGT1A8"                                                         0.0           
-    "UGT1A9"                                                         0.0           
-    "SLC22A14"                                                       0.0           
-    "COQ10BP2"                                                       0.0           
-    "PANDAR"                                                         0.0           
-    "LAP3P2"                                                         0.0           
-    "RPL22P16"                                                       0.0           
-    "GALNT17"                                                        0.0           
-    "PON1"                                                           0.0           
-    "HTR5A"                                                          0.0           
-    "SNORA36A"                                                       0.0           
-    "MIR664B"                                                        0.0           
-    "CSMD1"                                                          0.0           
-    "KCNS2"                                                          0.0           
-    "MIR548AA1"                                                      0.0           
-    "MIR548D1"                                                       0.0           
-    "MTCO2P11"                                                       0.0           
-    "CLCN3P1"                                                        0.0           
-    "SUGT1P4-STRA6LP"                                                0.0           
-    "STRA6LP"                                                        0.0           
-    "MUC6"                                                           0.0           
-    "VSTM4"                                                          0.0           
-    "LINC00856"                                                      0.0           
-    "LINC00595"                                                      0.0           
-    "CACYBPP1"                                                       0.0           
-    "LINC00477"                                                      0.0           
-    "KNOP1P1"                                                        0.0           
-    "WDR95P"                                                         0.0           
-    "MIR20A"                                                         0.0           
-    "MIR19B1"                                                        0.0           
-    "RPL21P5"                                                        0.0           
-    "RNU6-539P"                                                      0.0           
-    "SNRPN"                                                          0.0           
-    "SNURF"                                                          0.0           
-    "RBFOX1"                                                         0.0           
-    "LINC02183"                                                      0.0           
-    "MT1M"                                                           0.0           
-    "ASPA"                                                           0.0           
-    "BCL6B"                                                          0.0           
-    "CCL3L3"                                                         0.0           
-    "CCL3L1"                                                         0.0           
-    "OTOP3"                                                          0.0           
-    "RNA5SP450"                                                      0.0           
-    "PSG1"                                                           0.0           
-    "MIR3190"                                                        0.0           
-    "MIR3191"                                                        0.0           
+    ...
     "SEZ6L"                                                          0.0           
     "ADAMTS5"                                                        0.0           
 
@@ -2814,7 +1059,7 @@ Out\[49\]:
 
     Text(0.5, 0, 'Correlation between cells expression profiles')
 
-![](attachment:vertopal_af7e9407fea3417e85ecb8a8be849c8f/58885fde60d9ea27dc06a3095867362cad1ee49b.png)
+![.](attachment:vertopal_af7e9407fea3417e85ecb8a8be849c8f/58885fde60d9ea27dc06a3095867362cad1ee49b.png)
 
 We expect the correlation between the gene expression profiles of the
 the single cells to be fairly high.
@@ -2851,9 +1096,7 @@ suggest and discuss other approaches?
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
-### Unsupervised Learning<a href="#Unsupervised-Learning" class="anchor-link">¶</a>
+# Unsupervised Learning
 
 Please use the "...Train.txt" dataset. I have kept some data on the side
 for you to test you results at the end.
@@ -2866,9 +1109,7 @@ your choices.
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
-### Supervised Learning<a href="#Supervised-Learning" class="anchor-link">¶</a>
+# Supervised Learning
 
 We have discussed in class that the way a cell responds to low oxygen
 conditions (hypoxia) is a relevant phenotype for several diseases, and
