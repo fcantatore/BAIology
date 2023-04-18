@@ -1,5 +1,6 @@
 #### (_Confidential and NOT for Public Distribution_)
 ### [Overleaf Paper](https://www.overleaf.com/project/642c259e2f694482ba9942e8)
+### [Colab](https://colab.research.google.com/drive/1DltVlTuszWOiAbFxQ0-eCtsAYjyLH508?usp=sharing)
 
 # AI Lab - initial guidelines to generate your reports
 
